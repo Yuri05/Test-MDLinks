@@ -1,9 +1,4 @@
 {
-  "ignorePatterns": [
-    {
-      "pattern": "^http://example.net"
-    }
-  ],
   "retryOn429": true,
   "retryCount": 5,
   "fallbackRetryDelay": "30s",

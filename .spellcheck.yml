@@ -14,5 +14,5 @@ matrix:
     - code
     - pre
   sources:
-  - '**/*.md'
+  - 'Pediatric_Qualification_Package_CYP2C8_Ontogeny/**/*.md'
   default_encoding: utf-8
